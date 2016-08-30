@@ -13,7 +13,8 @@
     "outDir": "ts-out"
   },
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "generator-templates"
   ],
   "compileOnSave": false
 }
